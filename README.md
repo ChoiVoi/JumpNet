@@ -1,4 +1,4 @@
-# COMMUNICATION PLATFORM
+# JumpNet
 
 ### Running the server
 
